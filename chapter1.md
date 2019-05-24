@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Evaluating Logistic Regression
+
+```yaml
+type: VideoExercise
+key: 6bb7f7a35b
+xp: 50
+```
+
+`@projector_key`
+2c019d1e7d05eda0ad12c0130582d6ce
